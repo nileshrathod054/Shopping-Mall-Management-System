@@ -1,0 +1,34 @@
+
+.container{
+    
+    height:125vh;
+    margin-top:-0px;
+    background-size:cover;
+    background-repeat:no repeat;
+}
+.form{
+    text-align:center;
+    background-color:rgb(182, 212, 211);
+}
+.id1{
+    color:rgb(247, 15, 53);
+}
+.btn {
+    background-color: rgb(183, 247, 9);
+    color: white;
+    border: none;
+    padding: 10px 24px;
+    border-radius: 40px;
+  }
+  .id{
+
+    color:#002fff;
+  }
+  .App{
+    color:red;
+    background-color:#ccffff
+  }
+  .name{
+    font-family:bold;
+    color:#002fff;
+  }

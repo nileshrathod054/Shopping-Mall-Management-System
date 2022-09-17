@@ -1,0 +1,10 @@
+.home{
+    background-color:aquamarine;
+    height: 470px;
+    align-items: center;
+}
+.index{
+    text-align: center;
+    color:#ff5100;
+    text-decoration-color: rgb(255, 254, 196);
+}
